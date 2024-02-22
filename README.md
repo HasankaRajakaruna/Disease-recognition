@@ -1,1 +1,1 @@
-# Deep-Learning-Potato-Plant
+# Disease recognition app
